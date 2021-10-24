@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 -->
 ![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=PraveenPenguin&show_icons=true&hide_border=true)
 
-> Programming Languages used by me are as follows :
->
->>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenPenguin&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 >Streaks!
 >
 ><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenPenguin&" /></p>
