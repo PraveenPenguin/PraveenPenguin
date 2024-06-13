@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 -->
 ![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=PraveenPenguin&show_icons=true&hide_border=true)
 
->Streaks!
+
+![Overall github stats](https://github-readme-stats.vercel.app/api?username=PraveenPenguin&show_icons=true&hide_border=true&include_all_commits=true)
+
+>Streaks!]
 >
 ><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenPenguin&" /></p>
+
+
 
