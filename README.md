@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 >
 ><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenPenguin&" /></p>
 
-
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PraveenPenguin&theme=nord&column=4&margin-w=3&margin-h=3&no-frame=true)
 
